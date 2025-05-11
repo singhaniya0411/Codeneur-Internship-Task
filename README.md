@@ -81,7 +81,7 @@ JWT_SECRET=your_secret_key
 ### 4. Start Backend Server
 
 ```bash
-nodemon server/js
+nodemon server.js
 ```
 
 ### 5. Install Frontend Dependencies
