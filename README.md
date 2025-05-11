@@ -4,6 +4,7 @@ A full-stack authentication system built using the **MERN stack** (MongoDB, Expr
 
 ---
 
+
 ## 🚀 Features
 
 - 🔒 User Sign Up with hashed password (bcrypt)
