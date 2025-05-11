@@ -124,4 +124,4 @@ The app will be running at:
 
 ## 👤 Author
 
-- **Your Name** — **Vishal Singhaniya**
+- **Vishal Singhaniya**
