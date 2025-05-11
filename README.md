@@ -1,4 +1,4 @@
-# 🔐 MERN User Authentication System
+# 🔐 User Authentication System (MERN)
 
 A full-stack authentication system built using the **MERN stack** (MongoDB, Express, React, Node.js). This project supports **user registration**, **login**, **password hashing**, **JWT-based authentication**, and includes a clean UI built with **Tailwind CSS**.
 
