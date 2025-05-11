@@ -23,6 +23,7 @@ A full-stack authentication system built using the **MERN stack** (MongoDB, Expr
 
 ---
 
+
 ## 📂 Project Structure
 
 ```
